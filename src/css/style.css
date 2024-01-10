@@ -1,0 +1,21 @@
+
+body {
+  background-color: rgb(255, 255, 224);
+}
+.wrapper {
+}
+h1{
+  font-family: 'times new roman', palatino linotype, athena, tahoma;
+  font-size: 22px;
+  color: rgb(204,0,0);
+  font-weight: bold;
+}
+h1, h2, h3{
+  text-align: center;
+}
+.ital {
+  font-style: italic;
+}
+.upper{
+  text-transform: uppercase;
+}
